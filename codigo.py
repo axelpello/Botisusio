@@ -2,7 +2,7 @@ import discord
 from discord import FFmpegPCMAudio
 from discord.ext import commands
 import time
-$ heroku create myapp --buildpack heroku/python
+
 
 bot = commands.Bot(command_prefix='!!')
 
